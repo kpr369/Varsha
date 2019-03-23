@@ -52,13 +52,13 @@ public class TestNG {
 	
 	void testconflitcs()
 	{
-		
+		System.out.println("Welcome");
 	}
 	
 	@Test
 	
 	void buildtest()
 	{
-		System.out.println("Test");
+		System.out.println("Test3");
 	}
 }
