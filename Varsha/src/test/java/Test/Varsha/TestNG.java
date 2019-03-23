@@ -59,6 +59,9 @@ public class TestNG {
 	
 	void buildtest()
 	{
+	
 		System.out.println("Test3");
+		System.out.println("Test1");
+
 	}
 }
