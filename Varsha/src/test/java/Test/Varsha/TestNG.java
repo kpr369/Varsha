@@ -61,11 +61,8 @@ public class TestNG {
 	{
 	
 		System.out.println("Test3");
-<<<<<<< HEAD
 		System.out.println("Test9");
-=======
 		System.out.println("Test5");
->>>>>>> branch 'master' of https://github.com/kpr369/Varsha.git
 
 	}
 }
