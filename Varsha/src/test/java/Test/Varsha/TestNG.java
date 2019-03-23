@@ -51,6 +51,11 @@ public class TestNG {
 		
 	}
 	
+	void testconflitcs()
+	{
+		
+	}
+	
 	@Test
 	
 	void buildtest()
