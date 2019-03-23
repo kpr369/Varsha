@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
-
 public class TestNG {
 
 	public static WebDriver driver;
@@ -55,6 +54,6 @@ public class TestNG {
 	
 	void buildtest()
 	{
-		
+		System.out.println("Test");
 	}
 }
